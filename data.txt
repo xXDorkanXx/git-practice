@@ -1,3 +1,4 @@
 Name: Fernando
 Age: 29
 Favorite Color: Orange
+High: 1.74cm
